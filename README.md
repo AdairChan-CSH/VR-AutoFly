@@ -3,7 +3,7 @@ All auto AI VR graphic prediction precision
 
 VR mod for all games. Virtual Reality Auto depth VR prediction, AI
 
-VR everything on your desktop without SteamVR, in addition uses of WebRTC, recordRTC This program app can do auto (VR depth) immersive for all computer screen videos, games,
+VR everything on your desktop without SteamVR, in addition uses of WebRTC, recordRTC This program app can do auto (VR depth) immersive for all computer screen videos, games, (needed direct display headset)
 
 How to use:
 
@@ -14,3 +14,5 @@ put browser full-screen uses of third software "vitrite", press keyboard ctrl+sh
 put "vr93.html" transparent as above, both browser displayed, change below for both video a little bit to functionable 
 enjoy pain-free VR desktop without crashing to any StreamVR bugs! 
 This program provide VR depth immersive and excitment automatically.
+
+Author : Adair Chan
