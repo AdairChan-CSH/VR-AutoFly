@@ -1,5 +1,5 @@
 # VR-superAuto
-All auto AI VR graphic prediction precision
+All auto AI VR graphic prediction precedion
 
 VR mod for all games. Virtual Reality Auto depth VR prediction, AI
 
