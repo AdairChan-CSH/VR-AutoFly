@@ -8,11 +8,17 @@ VR everything on your desktop without SteamVR, in addition uses of WebRTC, recor
 How to use:
 
 download recordRTC on git put this project files in their simple demo folder (no need of hosting) 
+
 open "vr9.html", "vr93.html" click buttons, select screens, notifications 
+
 put the browsers in between two monitors turn on VR headset look for previous browser in your VR headset 
+
 put browser full-screen uses of third software "vitrite", press keyboard ctrl+shift+2 to use 
-put "vr93.html" transparent as above, both browser displayed, change below for both video a little bit to functionable 
+
+put "vr93.html" transparent as above, both browsers displayed, change below for both videos a little bit to functionable 
+
 enjoy pain-free VR desktop without crashing to any StreamVR bugs! 
+
 This program provide VR depth immersive and excitment automatically.
 
 Author : Adair Chan
