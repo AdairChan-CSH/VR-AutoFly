@@ -231,13 +231,13 @@ navigator.mediaDevices.getUserMedia({video: true, audio: true}).then(function(ca
 	<label>Grayscale</label>
 	<input type="range" min="0" max="100" value="0" step="1" onchange="applyFilter()" data-filter="grayscale" data-scale="%"><br>
 	<label>Hue Rotate</label>
-	<input type="range" min="0" max="360" value="250" step="1" onchange="applyFilter()" data-filter="hue-rotate" data-scale="deg"><br>
+	<input type="range" min="0" max="360" value="360" step="1" onchange="applyFilter()" data-filter="hue-rotate" data-scale="deg"><br>
 	<label>Invert</label>
 	<input type="range" min="0" max="100" value="0" step="1" onchange="applyFilter()" data-filter="invert" data-scale="%"><br>
 	<label>Opacity</label>
 	<input type="range" min="0" max="100" value="100" step="1" onchange="applyFilter()" data-filter="opacity" data-scale="%"><br>
 	<label>Saturate</label>
-	<input type="range" min="1" max="100" value="1" step="1" onchange="applyFilter()" data-filter="saturate" data-scale=""><br>
+	<input type="range" min="1" max="100" value="4" step="1" onchange="applyFilter()" data-filter="saturate" data-scale=""><br>
 	<label>Sepia</label>
 	<input type="range" min="0" max="100" value="0" step="1" onchange="applyFilter()" data-filter="sepia" data-scale="%"><br>
 
